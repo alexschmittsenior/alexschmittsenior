@@ -5,7 +5,7 @@
 Sou Alex Schmitt, um Arquiteto de Sistemas Sênior com mais de 20 anos de experiência em Pesquisa, Desenvolvimento e Inovação. Minha paixão por tecnologia e minha habilidade de comunicar conceitos técnicos de forma clara e concisa me permitem trabalhar de forma eficaz com equipes multidisciplinares e stakeholders de negócios. 
 
 - **LinkedIn:** [alexrobschmitt](https://www.linkedin.com/in/alexrobschmitt)
-- 
+
 ---
 
 ### 🌟 Resumo
