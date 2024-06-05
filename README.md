@@ -2,15 +2,11 @@
 
 ## Bem-vindo ao meu GitHub!
 
-Sou Alex Schmitt, um Arquiteto de Sistemas Sênior com mais de 20 anos de experiência em Pesquisa, Desenvolvimento e Inovação. Minha paixão por tecnologia e minha habilidade de comunicar conceitos técnicos de forma clara e concisa me permitem trabalhar de forma eficaz com equipes multidisciplinares e stakeholders de negócios. 
+Sou Alex Schmitt, um Arquiteto de Sistemas Sênior com mais de 20 anos de experiência em Pesquisa, Desenvolvimento e Inovação, com uma sólida trajetória de projetos bem-sucedidos e soluções inovadoras. Como líder, minha abordagem é motivar e inspirar, definindo metas claras, resolvendo conflitos com empatia e promovendo um ambiente colaborativo de alto desempenho. Minha paixão por tecnologia e minha habilidade de comunicar conceitos técnicos de forma clara e concisa me permitem trabalhar de forma eficaz com equipes multidisciplinares e stakeholders de negócios. 
 
 - **LinkedIn:** [alexrobschmitt](https://www.linkedin.com/in/alexrobschmitt)
 
 ---
-
-### 🌟 Resumo
-
-Arquiteto de Sistemas Sênior com uma sólida trajetória de projetos bem-sucedidos e soluções inovadoras. Como líder, minha abordagem é motivar e inspirar, definindo metas claras, resolvendo conflitos com empatia e promovendo um ambiente colaborativo de alto desempenho.
 
 ### 💼 Realizações Profissionais
 
